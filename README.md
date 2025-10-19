@@ -1,6 +1,6 @@
 # ESP8266 DOM (newline JSON protocol)
 
-![demo](assests/Code_mKibcuj82H.gif)
+![demo](assets/Code_mKibcuj82H.gif)
 
 Small firmware and PC-side GUI for a newline-delimited JSON object discovery / watch protocol. The firmware exposes schema-driven objects over Serial. The repository contains a lightweight runtime that maps C structs to schema-backed JSON objects.
 
