@@ -1,0 +1,103 @@
+# PlatformIO specific
+.pio/
+.pioenvs/
+.piolibdeps/
+.pioplatforms/
+.piocache/
+piolibs/
+
+# Build directories
+build/
+.build/
+dist/
+.dist/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Windows specific
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Dependencies
+node_modules/
+lib_deps/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firmware files (optional - uncomment if you don't want to track firmware)
+# *.bin
+# *.hex
+# *.elf
+
+# Temporary files
+*.orig
+*.rej
+*.patch
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C/C++ compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# Monitoring and profiling
+.monitor/
+.profiler/
+
+# Documentation build
+docs/_build/
+
+# Local configuration files
+config.local.*
+secrets.*

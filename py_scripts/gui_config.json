@@ -1,0 +1,15 @@
+{
+  "port": "COM6",
+  "baud": 115200,
+  "subscriptions": [
+    "plasma"
+  ],
+  "require_subscription": true,
+  "expressions": [
+    {
+      "expr": "plasma",
+      "type": "object",
+      "value": "{\"temperature\": 31.84000015, \"active\": false, \"profile\": \"yok\"}"
+    }
+  ]
+}
